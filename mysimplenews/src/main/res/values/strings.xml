@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MysimpleNews</string>
+    <string name="mysimplenews">MySimpleNews</string>
+    <string name="setting">Setting</string>
+    <string name="navigation_news">新闻</string>
+    <string name="navigation_images">图片</string>
+    <string name="navigation_weather">天气</string>
+    <string name="navigation_about">关于</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="news_title">新闻</string>
+    <string name="image_title">图片</string>
+    <string name="weather_title">天气</string>
+    <string name="about_title">关于</string>
+    <string name="load_fail">数据加载失败</string>
+    <string name="image_hit">一次只能加载20条</string>
+    <string name="top">头条</string>
+    <string name="nba">NBA</string>
+    <string name="cars">汽车</string>
+    <string name="jokes">笑话</string>
+    <string name="transition_news_img">transition_news_img</string>
+    <string name="title_activity_news_detail">title_activity_news_detail</string>
+</resources>
